@@ -1,6 +1,32 @@
 td{
-	padding: 10px 20px 40px 60px;
-	background-color: #0ECA0D;
-	/*border-style: #CA1515 10px
-	border-style: dotted*/
+  /*padding: 100px;*/
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+.d1{
+  background-color: #EF0BDB;
+  border: dashed; #0A0101 20px;
+  margin: 5px 15px 50px 250px;
+  padding: 120px;
+  width: 280%;
+  height: 60px;
+} 
+ 
+.d2{
+  background-color: red;
+  border: double #0FEFE6 8px;
+  margin: 8px 20px 80px 150px;
+  padding: 80px;
+  width: 20%;
+  height: 150px;
+}
+.d3{
+  background-color: #188417;
+  border: solid #2112CD 10px;
+  margin: 60px;
+  padding: 20px;
+  width: 50%;
+  height: 100px;
 }
