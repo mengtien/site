@@ -5,22 +5,21 @@ td{
   padding-bottom: 20px;
   padding-right: 20px;
 }
-.d1{
-  background-color: #EF0BDB;
-  border: dashed; #0A0101 20px;
-  margin: 5px 15px 50px 250px;
-  padding: 120px;
-  width: 280%;
-  height: 60px;
-} 
- 
-.d2{
-  background-color: red;
-  border: double #0FEFE6 8px;
-  margin: 8px 20px 80px 150px;
-  padding: 80px;
-  width: 20%;
-  height: 150px;
+#d1{
+  background-color: #F00EE0;
+  border: double black 20px;
+  margin: 5px 5px 10px 5px;
+  padding: 50px;
+  width: 80%;
+  height: 50px;
+}
+ .d2{
+  background-color: #FA0808;
+  border: solid black 20px;
+  margin: 30px;
+  padding: 20px;
+  width: 50%;
+  height: 300px;
 }
 .d3{
   background-color: #188417;
