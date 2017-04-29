@@ -1,31 +1,12 @@
-td{
-  /*padding: 100px;*/
-  padding-left: 50px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 20px;
-}
-#d1{
-  background-color: #F00EE0;
-  border: double black 20px;
-  margin: 5px 5px 10px 5px;
-  padding: 50px;
-  width: 80%;
-  height: 50px;
-}
- .d2{
-  background-color: #FA0808;
-  border: solid black 20px;
-  margin: 30px;
-  padding: 20px;
-  width: 50%;
-  height: 300px;
-}
-.d3{
-  background-color: #188417;
-  border: solid #2112CD 10px;
-  margin: 60px;
-  padding: 20px;
-  width: 50%;
+div{
+ /* margin: 0;*/
+ /* padding:0;*/
+  }
+.container{
   height: 100px;
+  background-color: #4BDC55;
+}
+.container-fluid{
+  height: 100px;
+  background-color: #E01FCF;
 }
